@@ -1,2 +1,1 @@
-#!/bin/bash
-stat %T /tmp/iamafile
+#!/bin/bashile /tmp/iamafile
